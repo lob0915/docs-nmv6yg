@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-en0e4c.stardustmotelcamrose.ca/sitemap.xml
